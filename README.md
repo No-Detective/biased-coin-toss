@@ -1,4 +1,4 @@
-# Biased Coin Toss — A Bayesian Perspective
+# Biased Coin Toss
 
 This project is a hands-on exploration of a classic probability scenario: analyzing a biased coin flip. Beyond its simplicity, this exercise demonstrates key statistical tools that build a foundation for more advanced quantitative analysis and decision-making under uncertainty.
 
